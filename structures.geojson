@@ -451,6 +451,20 @@
           40.168326803113054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51766908168793,
+          40.17383185197223
+        ]
+      }
     }
   ]
 }
