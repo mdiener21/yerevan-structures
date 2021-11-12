@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victory Bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50005769729614,
+          40.1747418021502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hrazdan Riverbank Rd Bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.498402774333954,
+          40.18917025945837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50044393539429,
+          40.18688150148322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chrik bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49857175350189,
+          40.185971714105584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.495481848716736,
+          40.182234081174165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49927449226379,
+          40.178143760045145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50135588645935,
+          40.17704531517649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.500476121902466,
+          40.17338916909552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50185477733612,
+          40.16701093603936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.482537508010864,
+          40.19170071217296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.48291301727295,
+          40.19105325309781
+        ]
+      }
+    }
+  ]
+}
