@@ -283,6 +283,20 @@
           40.18610490446157
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Davtashen Bridge Large Concrete",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49359893798828,
+          40.209368221687804
+        ]
+      }
     }
   ]
 }
