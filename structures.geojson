@@ -157,6 +157,34 @@
           40.19105325309781
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.498343765735626,
+          40.17883847625809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dam",
+        "type": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.501227140426636,
+          40.1885412172902
+        ]
+      }
     }
   ]
 }
