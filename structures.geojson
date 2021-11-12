@@ -395,6 +395,62 @@
           40.17114701795309
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50590491294861,
+          40.16694124766377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51282501220703,
+          40.16256713409989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51743841171265,
+          40.159844956774066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5133775472641,
+          40.168326803113054
+        ]
+      }
     }
   ]
 }
