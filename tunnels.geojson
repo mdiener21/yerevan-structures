@@ -1,0 +1,4436 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-12T14:56:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26711953",
+        "colour": "red",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-2",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5073927,
+            40.1564955
+          ],
+          [
+            44.5076181,
+            40.1571575
+          ]
+        ]
+      },
+      "id": "way/26711953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28321537",
+        "colour": "red",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-2",
+        "operator": "Karen Demirchyan Yerevan Subway CJSC",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5084382,
+            40.1665983
+          ],
+          [
+            44.508481,
+            40.1668695
+          ],
+          [
+            44.5086312,
+            40.1673008
+          ],
+          [
+            44.5090721,
+            40.167868
+          ],
+          [
+            44.51004,
+            40.1686268
+          ],
+          [
+            44.5109092,
+            40.1691755
+          ],
+          [
+            44.512127,
+            40.1699775
+          ],
+          [
+            44.5126782,
+            40.1704387
+          ],
+          [
+            44.5129019,
+            40.1707584
+          ],
+          [
+            44.5133179,
+            40.1715959
+          ],
+          [
+            44.5154121,
+            40.1771487
+          ],
+          [
+            44.5155145,
+            40.1774161
+          ],
+          [
+            44.5158124,
+            40.1781944
+          ],
+          [
+            44.5158675,
+            40.1783359
+          ],
+          [
+            44.5160504,
+            40.1787953
+          ],
+          [
+            44.5162698,
+            40.1795
+          ],
+          [
+            44.5166607,
+            40.1805235
+          ],
+          [
+            44.5168104,
+            40.1807874
+          ],
+          [
+            44.5172265,
+            40.1812363
+          ],
+          [
+            44.5177742,
+            40.1815422
+          ],
+          [
+            44.5182147,
+            40.1816891
+          ],
+          [
+            44.5189199,
+            40.1818453
+          ],
+          [
+            44.5201213,
+            40.1819555
+          ],
+          [
+            44.5215053,
+            40.1821443
+          ],
+          [
+            44.5225105,
+            40.1824948
+          ],
+          [
+            44.5231997,
+            40.1830732
+          ],
+          [
+            44.5235566,
+            40.1836454
+          ],
+          [
+            44.5236735,
+            40.1841192
+          ],
+          [
+            44.5236968,
+            40.1845101
+          ],
+          [
+            44.5236124,
+            40.18485
+          ],
+          [
+            44.5227862,
+            40.1859616
+          ],
+          [
+            44.5218247,
+            40.1867729
+          ],
+          [
+            44.5211837,
+            40.1871664
+          ],
+          [
+            44.5207081,
+            40.1873386
+          ],
+          [
+            44.5195104,
+            40.1874447
+          ],
+          [
+            44.5160039,
+            40.1869095
+          ],
+          [
+            44.514036,
+            40.1869395
+          ],
+          [
+            44.5119028,
+            40.1873
+          ],
+          [
+            44.5098133,
+            40.1882908
+          ],
+          [
+            44.5074408,
+            40.1901199
+          ],
+          [
+            44.5059517,
+            40.1915968
+          ],
+          [
+            44.5043974,
+            40.1929768
+          ],
+          [
+            44.5025348,
+            40.1941045
+          ],
+          [
+            44.4988613,
+            40.1959599
+          ],
+          [
+            44.4987905,
+            40.1959827
+          ],
+          [
+            44.493433,
+            40.197709
+          ],
+          [
+            44.4933136,
+            40.1977476
+          ]
+        ]
+      },
+      "id": "way/28321537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30098524",
+        "layer": "-1",
+        "railway": "abandoned",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5281118,
+            40.2023773
+          ],
+          [
+            44.5244954,
+            40.2037108
+          ],
+          [
+            44.5239968,
+            40.2038072
+          ],
+          [
+            44.5234054,
+            40.2037845
+          ],
+          [
+            44.5229385,
+            40.2037138
+          ]
+        ]
+      },
+      "id": "way/30098524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33130259",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name:de": "Chandschjanstraße",
+        "oneway": "yes",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5236932,
+            40.1795016
+          ],
+          [
+            44.5238524,
+            40.179939
+          ]
+        ]
+      },
+      "id": "way/33130259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33130262",
+        "highway": "tertiary",
+        "layer": "-1",
+        "name": "Ալեք Մանուկյանի փողոց",
+        "name:en": "Alek Manoukyan street",
+        "name:hy": "Ալեք Մանուկյանի փողոց",
+        "name:ru": "улица Алека Манукяна",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5249277,
+            40.1830802
+          ],
+          [
+            44.5250448,
+            40.1827422
+          ]
+        ]
+      },
+      "id": "way/33130262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41219382",
+        "bicycle": "yes",
+        "covered": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5059733,
+            40.1843185
+          ],
+          [
+            44.5020841,
+            40.1869983
+          ]
+        ]
+      },
+      "id": "way/41219382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48205479",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5052927,
+            40.2057955
+          ],
+          [
+            44.5055558,
+            40.2054173
+          ]
+        ]
+      },
+      "id": "way/48205479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48211088",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4929148,
+            40.1976152
+          ],
+          [
+            44.4928293,
+            40.1976539
+          ],
+          [
+            44.4927622,
+            40.1977099
+          ],
+          [
+            44.4927204,
+            40.1977748
+          ],
+          [
+            44.4927036,
+            40.1978459
+          ],
+          [
+            44.4927131,
+            40.1979179
+          ],
+          [
+            44.4927211,
+            40.1979333
+          ],
+          [
+            44.4927481,
+            40.1979851
+          ],
+          [
+            44.492806,
+            40.1980423
+          ],
+          [
+            44.4928533,
+            40.1980689
+          ],
+          [
+            44.4928823,
+            40.1980852
+          ],
+          [
+            44.492971,
+            40.1981104
+          ],
+          [
+            44.4930654,
+            40.198116
+          ],
+          [
+            44.4931582,
+            40.1981015
+          ],
+          [
+            44.4932422,
+            40.1980681
+          ],
+          [
+            44.4933109,
+            40.1980184
+          ],
+          [
+            44.4933608,
+            40.1979527
+          ],
+          [
+            44.4933839,
+            40.1978789
+          ],
+          [
+            44.493378,
+            40.1978031
+          ],
+          [
+            44.4933603,
+            40.1977661
+          ],
+          [
+            44.4933439,
+            40.1977318
+          ],
+          [
+            44.4932842,
+            40.1976711
+          ],
+          [
+            44.4932042,
+            40.1976261
+          ],
+          [
+            44.4931105,
+            40.1976006
+          ],
+          [
+            44.4930113,
+            40.1975969
+          ],
+          [
+            44.4929575,
+            40.1976071
+          ],
+          [
+            44.4929148,
+            40.1976152
+          ]
+        ]
+      },
+      "id": "way/48211088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48276937",
+        "foot": "no",
+        "highway": "primary",
+        "int_name": "Mesrop Mashtots Avenue",
+        "lanes": "4",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "Մեսրոպ Մաշտոցի պողոտա",
+        "name:de": "Mesrop-Maschtoz-Allee",
+        "name:en": "Mesrop Mashtots Avenue",
+        "name:hy": "Մեսրոպ Մաշտոցի պողոտա",
+        "name:ru": "проспект Месропа Маштоца",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5019647,
+            40.1751701
+          ],
+          [
+            44.502292,
+            40.1761784
+          ],
+          [
+            44.5023881,
+            40.1763708
+          ],
+          [
+            44.5031577,
+            40.177068
+          ],
+          [
+            44.5037371,
+            40.1775609
+          ]
+        ]
+      },
+      "id": "way/48276937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48372378",
+        "boat": "no",
+        "layer": "-1",
+        "name": "Արտաշատի մելիորատիվ ջրանցք",
+        "name:en": "Artashat Meliorative Channel",
+        "service": "irrigation",
+        "tunnel": "yes",
+        "waterway": "canal",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5136141,
+            40.1512259
+          ],
+          [
+            44.5135843,
+            40.150544
+          ]
+        ]
+      },
+      "id": "way/48372378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48372414",
+        "layer": "-1",
+        "name": "Արտաշատի մելիորատիվ ջրանցք",
+        "name:en": "Artashat meliorative channel",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.512969,
+            40.1548413
+          ],
+          [
+            44.512994,
+            40.1551078
+          ]
+        ]
+      },
+      "id": "way/48372414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49734470",
+        "highway": "trunk",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5237869,
+            40.1801637
+          ],
+          [
+            44.5234723,
+            40.179584
+          ]
+        ]
+      },
+      "id": "way/49734470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49771701",
+        "highway": "tertiary",
+        "layer": "-1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4970354,
+            40.1942791
+          ],
+          [
+            44.4968462,
+            40.1943533
+          ],
+          [
+            44.4966582,
+            40.1943942
+          ],
+          [
+            44.4962102,
+            40.1943981
+          ]
+        ]
+      },
+      "id": "way/49771701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56061132",
+        "highway": "primary_link",
+        "lanes": "1",
+        "layer": "-1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5317418,
+            40.1937609
+          ],
+          [
+            44.531775,
+            40.1931062
+          ]
+        ]
+      },
+      "id": "way/56061132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56061133",
+        "highway": "trunk_link",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "40",
+        "oneway": "no",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5339313,
+            40.1926934
+          ],
+          [
+            44.5339917,
+            40.1925838
+          ],
+          [
+            44.5340064,
+            40.1924557
+          ],
+          [
+            44.5339876,
+            40.1923359
+          ],
+          [
+            44.5339233,
+            40.1922047
+          ],
+          [
+            44.5338057,
+            40.1920643
+          ],
+          [
+            44.5336248,
+            40.1919724
+          ],
+          [
+            44.5334258,
+            40.1918965
+          ],
+          [
+            44.5330575,
+            40.1918032
+          ],
+          [
+            44.5326953,
+            40.1917384
+          ]
+        ]
+      },
+      "id": "way/56061133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56067491",
+        "highway": "tertiary",
+        "lanes": "2",
+        "layer": "-2",
+        "name": "Վարդանանց փողոց",
+        "name:en": "Vardanants Street",
+        "name:fr": "rue Vardanants",
+        "name:hy": "Վարդանանց փողոց",
+        "name:ru": "улица Вардананц",
+        "oneway": "no",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5205768,
+            40.1750269
+          ],
+          [
+            44.5203575,
+            40.1752924
+          ]
+        ]
+      },
+      "id": "way/56067491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56067933",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5202153,
+            40.1751664
+          ],
+          [
+            44.5204212,
+            40.1749654
+          ],
+          [
+            44.520454,
+            40.1749296
+          ],
+          [
+            44.5204784,
+            40.1749022
+          ]
+        ]
+      },
+      "id": "way/56067933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56067935",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5204499,
+            40.1753207
+          ],
+          [
+            44.5207238,
+            40.1750876
+          ]
+        ]
+      },
+      "id": "way/56067935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56992057",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "-1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5302229,
+            40.1917214
+          ],
+          [
+            44.530369,
+            40.19173
+          ],
+          [
+            44.5304675,
+            40.1917505
+          ],
+          [
+            44.5305902,
+            40.1917833
+          ],
+          [
+            44.5307671,
+            40.1918529
+          ]
+        ]
+      },
+      "id": "way/56992057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58642922",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "layer": "-1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5326953,
+            40.1917384
+          ],
+          [
+            44.5326653,
+            40.1917939
+          ]
+        ]
+      },
+      "id": "way/58642922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119038808",
+        "highway": "service",
+        "layer": "-1",
+        "oneway": "yes",
+        "service": "parking_aisle",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.514931,
+            40.1849924
+          ],
+          [
+            44.5148621,
+            40.1843304
+          ]
+        ]
+      },
+      "id": "way/119038808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119038809",
+        "highway": "service",
+        "layer": "-1",
+        "oneway": "yes",
+        "service": "parking_aisle",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5149421,
+            40.1842721
+          ],
+          [
+            44.5150076,
+            40.1849842
+          ]
+        ]
+      },
+      "id": "way/119038809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/137519372",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4913216,
+            40.1723524
+          ],
+          [
+            44.4906964,
+            40.171733
+          ]
+        ]
+      },
+      "id": "way/137519372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187361636",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "Ազատության պողոտա",
+        "name:en": "Azatutyan Avenue",
+        "name:hy": "Ազատության պողոտա",
+        "name:ru": "проспект Азатутяна",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5262631,
+            40.2060296
+          ],
+          [
+            44.5258794,
+            40.2056287
+          ],
+          [
+            44.5255319,
+            40.2052657
+          ]
+        ]
+      },
+      "id": "way/187361636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187361638",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "name": "Ազատության պողոտա",
+        "name:en": "Azatutyan Avenue",
+        "name:hy": "Ազատության պողոտա",
+        "name:ru": "проспект Азатутяна",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5256169,
+            40.2052161
+          ],
+          [
+            44.5259716,
+            40.2055787
+          ],
+          [
+            44.5262663,
+            40.2058799
+          ],
+          [
+            44.52636,
+            40.2059757
+          ]
+        ]
+      },
+      "id": "way/187361638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187668434",
+        "highway": "residential",
+        "layer": "-1",
+        "name": "Քրիստափորի փողոց",
+        "name:en": "Kristapor street",
+        "name:hy": "Քրիստափորի փողոց",
+        "name:ru": "улица Кристапора",
+        "source": "yahoo",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5232712,
+            40.1654616
+          ],
+          [
+            44.5230177,
+            40.165473
+          ]
+        ]
+      },
+      "id": "way/187668434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/189418147",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4934093,
+            40.1725446
+          ],
+          [
+            44.4930871,
+            40.1723526
+          ],
+          [
+            44.4929341,
+            40.172274
+          ],
+          [
+            44.4927482,
+            40.1722499
+          ],
+          [
+            44.4922823,
+            40.1724181
+          ]
+        ]
+      },
+      "id": "way/189418147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/212739323",
+        "highway": "footway",
+        "layer": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5069077,
+            40.1553424
+          ],
+          [
+            44.5079785,
+            40.1553134
+          ]
+        ]
+      },
+      "id": "way/212739323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/214478322",
+        "boat": "no",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.504849,
+            40.1575597
+          ],
+          [
+            44.5044023,
+            40.1569902
+          ]
+        ]
+      },
+      "id": "way/214478322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215826810",
+        "layer": "-1",
+        "name": "Զանգու",
+        "name:en": "Zangu",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4950244,
+            40.1565701
+          ],
+          [
+            44.4943893,
+            40.1577568
+          ],
+          [
+            44.494333,
+            40.1578621
+          ]
+        ]
+      },
+      "id": "way/215826810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215826811",
+        "layer": "-1",
+        "name": "Զանգու",
+        "name:en": "Zangu",
+        "name:ru": "Зангу",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4992888,
+            40.1525261
+          ],
+          [
+            44.4980347,
+            40.1530321
+          ]
+        ]
+      },
+      "id": "way/215826811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252065",
+        "layer": "-1",
+        "name": "Գետառ",
+        "name:en": "Getar",
+        "tunnel": "yes",
+        "waterway": "stream"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5418668,
+            40.1947771
+          ],
+          [
+            44.5391763,
+            40.1952894
+          ]
+        ]
+      },
+      "id": "way/216252065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252068",
+        "layer": "-1",
+        "name": "Գետառ",
+        "name:en": "Getar",
+        "tunnel": "yes",
+        "waterway": "stream"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5389917,
+            40.1953233
+          ],
+          [
+            44.5375817,
+            40.1955756
+          ]
+        ]
+      },
+      "id": "way/216252068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252069",
+        "layer": "-1",
+        "name": "Գետառ",
+        "name:en": "Getar",
+        "tunnel": "yes",
+        "waterway": "stream"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5424648,
+            40.1947679
+          ],
+          [
+            44.5420075,
+            40.1947649
+          ]
+        ]
+      },
+      "id": "way/216252069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252127",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "drain"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4991015,
+            40.1897452
+          ],
+          [
+            44.4992031,
+            40.1892485
+          ]
+        ]
+      },
+      "id": "way/216252127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252128",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5012651,
+            40.1643187
+          ],
+          [
+            44.5007606,
+            40.1641854
+          ]
+        ]
+      },
+      "id": "way/216252128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252129",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4985281,
+            40.1908119
+          ],
+          [
+            44.4987351,
+            40.1891917
+          ]
+        ]
+      },
+      "id": "way/216252129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216252131",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5043532,
+            40.2168498
+          ],
+          [
+            44.4989044,
+            40.1928256
+          ],
+          [
+            44.4985281,
+            40.1908119
+          ]
+        ]
+      },
+      "id": "way/216252131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216253461",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5023442,
+            40.1766643
+          ],
+          [
+            44.5021293,
+            40.1764018
+          ]
+        ]
+      },
+      "id": "way/216253461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217810469",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5211798,
+            40.1824283
+          ],
+          [
+            44.521035,
+            40.1825554
+          ]
+        ]
+      },
+      "id": "way/217810469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217834464",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5211768,
+            40.1805874
+          ],
+          [
+            44.521038,
+            40.180736
+          ]
+        ]
+      },
+      "id": "way/217834464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218635844",
+        "layer": "-1",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4989334,
+            40.175724
+          ],
+          [
+            44.4985116,
+            40.1753754
+          ]
+        ]
+      },
+      "id": "way/218635844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220359127",
+        "highway": "footway",
+        "layer": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5086621,
+            40.1553965
+          ],
+          [
+            44.5086646,
+            40.1552992
+          ],
+          [
+            44.5086595,
+            40.1551956
+          ]
+        ]
+      },
+      "id": "way/220359127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222273306",
+        "highway": "trunk",
+        "lanes": "4",
+        "lanes:backward": "2",
+        "lanes:forward": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "oneway": "no",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5141477,
+            40.1733603
+          ],
+          [
+            44.5138795,
+            40.173337
+          ],
+          [
+            44.5137332,
+            40.1733163
+          ],
+          [
+            44.5135893,
+            40.1732742
+          ],
+          [
+            44.5131765,
+            40.173105
+          ]
+        ]
+      },
+      "id": "way/222273306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223822294",
+        "highway": "trunk",
+        "lanes": "4",
+        "lanes:forward": "2",
+        "layer": "-1",
+        "maxspeed": "60",
+        "oneway": "no",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5265364,
+            40.1848815
+          ],
+          [
+            44.5266389,
+            40.1852814
+          ],
+          [
+            44.5266815,
+            40.1855361
+          ]
+        ]
+      },
+      "id": "way/223822294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224231683",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5048456,
+            40.1909898
+          ],
+          [
+            44.5048911,
+            40.1912218
+          ]
+        ]
+      },
+      "id": "way/224231683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224496728",
+        "highway": "footway",
+        "layer": "-1",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5261118,
+            40.2055034
+          ],
+          [
+            44.5259716,
+            40.2055787
+          ],
+          [
+            44.5258794,
+            40.2056287
+          ],
+          [
+            44.525731,
+            40.2057115
+          ]
+        ]
+      },
+      "id": "way/224496728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224496730",
+        "highway": "footway",
+        "layer": "-1",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5259169,
+            40.2053169
+          ],
+          [
+            44.5261118,
+            40.2055034
+          ],
+          [
+            44.526301,
+            40.2056881
+          ]
+        ]
+      },
+      "id": "way/224496730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224496732",
+        "highway": "footway",
+        "layer": "-1",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5255582,
+            40.2055283
+          ],
+          [
+            44.525731,
+            40.2057115
+          ],
+          [
+            44.5259083,
+            40.2059038
+          ]
+        ]
+      },
+      "id": "way/224496732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244041571",
+        "bicycle": "yes",
+        "crossing": "underpass",
+        "foot": "yes",
+        "footway": "crossing",
+        "highway": "footway",
+        "horse": "no",
+        "layer": "-1",
+        "motor_vehicle": "no",
+        "surface": "paving_stones",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5150639,
+            40.178755
+          ],
+          [
+            44.5157434,
+            40.1785494
+          ]
+        ]
+      },
+      "id": "way/244041571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260895722",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4985527,
+            40.152695
+          ],
+          [
+            44.4988506,
+            40.1525453
+          ],
+          [
+            44.4988605,
+            40.1525408
+          ]
+        ]
+      },
+      "id": "way/260895722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/260896684",
+        "highway": "footway",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4981949,
+            40.1520122
+          ],
+          [
+            44.4981758,
+            40.1520031
+          ]
+        ]
+      },
+      "id": "way/260896684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/283613205",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4932656,
+            40.2003552
+          ],
+          [
+            44.4933662,
+            40.2002217
+          ]
+        ]
+      },
+      "id": "way/283613205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/335895222",
+        "covered": "yes",
+        "highway": "residential",
+        "layer": "-1",
+        "name": "Անրի Վերնոյի փողոց",
+        "name:en": "Anry Verno street",
+        "name:ru": "улица Анри Верно",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5071732,
+            40.1830373
+          ],
+          [
+            44.5069744,
+            40.1828716
+          ]
+        ]
+      },
+      "id": "way/335895222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/375365676",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5224781,
+            40.1869758
+          ],
+          [
+            44.5227251,
+            40.1868024
+          ]
+        ]
+      },
+      "id": "way/375365676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380442923",
+        "layer": "-2",
+        "name": "Արտաշատի մելիորատիվ ջրանցք",
+        "name:en": "Artashat Meliorative Channel",
+        "service": "irrigation",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5038622,
+            40.163713
+          ],
+          [
+            44.5127068,
+            40.1622615
+          ],
+          [
+            44.5129734,
+            40.160937
+          ]
+        ]
+      },
+      "id": "way/380442923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390803790",
+        "foot": "yes",
+        "highway": "footway",
+        "layer": "-1",
+        "motor_vehicle": "no",
+        "oneway": "no",
+        "tunnel": "yes",
+        "underpass": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5192191,
+            40.2066476
+          ],
+          [
+            44.5191819,
+            40.2063211
+          ]
+        ]
+      },
+      "id": "way/390803790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406939119",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5088845,
+            40.1821127
+          ],
+          [
+            44.5091602,
+            40.1819165
+          ]
+        ]
+      },
+      "id": "way/406939119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438039032",
+        "highway": "footway",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5309848,
+            40.1816417
+          ],
+          [
+            44.531422,
+            40.181822
+          ]
+        ]
+      },
+      "id": "way/438039032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/439349818",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5244486,
+            40.1882846
+          ],
+          [
+            44.5241912,
+            40.1884655
+          ],
+          [
+            44.5240734,
+            40.1883725
+          ],
+          [
+            44.5237128,
+            40.1880684
+          ],
+          [
+            44.5239644,
+            40.1878888
+          ],
+          [
+            44.5240685,
+            40.1879739
+          ],
+          [
+            44.5243225,
+            40.1881815
+          ],
+          [
+            44.5244486,
+            40.1882846
+          ]
+        ]
+      },
+      "id": "way/439349818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442835635",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5134344,
+            40.1719857
+          ],
+          [
+            44.5139266,
+            40.1719877
+          ]
+        ]
+      },
+      "id": "way/442835635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442908051",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "layer": "-1",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5326565,
+            40.1916909
+          ],
+          [
+            44.5326953,
+            40.1917384
+          ]
+        ]
+      },
+      "id": "way/442908051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445325645",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "name": "Yerevan Mall. Arshakunyats Street",
+        "oneway": "yes",
+        "service": "parking_aisle",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4996536,
+            40.1547322
+          ],
+          [
+            44.5002992,
+            40.1555953
+          ],
+          [
+            44.4991967,
+            40.156047
+          ],
+          [
+            44.499303,
+            40.1561955
+          ]
+        ]
+      },
+      "id": "way/445325645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445325646",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "name": "Yerevan Mall. Arshakunyats street",
+        "oneway": "yes",
+        "service": "parking_aisle",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4995427,
+            40.1547303
+          ],
+          [
+            44.5001001,
+            40.1555413
+          ],
+          [
+            44.4990594,
+            40.1559835
+          ],
+          [
+            44.4988463,
+            40.1560758
+          ]
+        ]
+      },
+      "id": "way/445325646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/445325649",
+        "covered": "yes",
+        "highway": "service",
+        "layer": "-1",
+        "maxspeed": "20",
+        "name": "I",
+        "service": "parking_aisle",
+        "surface": "concrete",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4990594,
+            40.1559835
+          ],
+          [
+            44.4985736,
+            40.1553369
+          ]
+        ]
+      },
+      "id": "way/445325649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455956535",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5215774,
+            40.1858428
+          ],
+          [
+            44.52134,
+            40.1860066
+          ]
+        ]
+      },
+      "id": "way/455956535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455956537",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5227251,
+            40.1868024
+          ],
+          [
+            44.5225129,
+            40.1866192
+          ],
+          [
+            44.5218927,
+            40.1861032
+          ]
+        ]
+      },
+      "id": "way/455956537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463793498",
+        "covered": "yes",
+        "highway": "footway",
+        "layer": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5079785,
+            40.1553134
+          ],
+          [
+            44.5081761,
+            40.1553072
+          ],
+          [
+            44.5086646,
+            40.1552992
+          ]
+        ]
+      },
+      "id": "way/463793498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463797925",
+        "access": "no",
+        "covered": "yes",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5061811,
+            40.1844749
+          ],
+          [
+            44.5021735,
+            40.1872088
+          ]
+        ]
+      },
+      "id": "way/463797925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/473366754",
+        "highway": "path",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5066343,
+            40.1845548
+          ],
+          [
+            44.5068246,
+            40.1847108
+          ]
+        ]
+      },
+      "id": "way/473366754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/473593887",
+        "highway": "service",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5029516,
+            40.1715961
+          ],
+          [
+            44.5027527,
+            40.1715952
+          ]
+        ]
+      },
+      "id": "way/473593887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474418903",
+        "highway": "service",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5026798,
+            40.1718295
+          ],
+          [
+            44.502505,
+            40.1718295
+          ]
+        ]
+      },
+      "id": "way/474418903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474418906",
+        "highway": "footway",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5033013,
+            40.1724631
+          ],
+          [
+            44.5032986,
+            40.1723283
+          ]
+        ]
+      },
+      "id": "way/474418906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474418908",
+        "highway": "service",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5029458,
+            40.1720693
+          ],
+          [
+            44.5031298,
+            40.1720692
+          ]
+        ]
+      },
+      "id": "way/474418908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475880215",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5164181,
+            40.1796744
+          ],
+          [
+            44.5162786,
+            40.1797428
+          ]
+        ]
+      },
+      "id": "way/475880215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/476074574",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5053792,
+            40.1912069
+          ],
+          [
+            44.5051074,
+            40.1912402
+          ]
+        ]
+      },
+      "id": "way/476074574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/480261270",
+        "footway": "crossing",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4995619,
+            40.1929197
+          ],
+          [
+            44.4992932,
+            40.1926445
+          ]
+        ]
+      },
+      "id": "way/480261270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481334339",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5159716,
+            40.178452
+          ],
+          [
+            44.5157273,
+            40.1785178
+          ],
+          [
+            44.5157434,
+            40.1785494
+          ],
+          [
+            44.5158489,
+            40.178717
+          ],
+          [
+            44.515904,
+            40.1788085
+          ]
+        ]
+      },
+      "id": "way/481334339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482557851",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5242191,
+            40.1844169
+          ],
+          [
+            44.5243866,
+            40.1841438
+          ]
+        ]
+      },
+      "id": "way/482557851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482558446",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.52134,
+            40.1860066
+          ],
+          [
+            44.5215067,
+            40.1861463
+          ],
+          [
+            44.521649,
+            40.1862697
+          ]
+        ]
+      },
+      "id": "way/482558446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487813514",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5218927,
+            40.1861032
+          ],
+          [
+            44.521643,
+            40.185897
+          ],
+          [
+            44.5215774,
+            40.1858428
+          ]
+        ]
+      },
+      "id": "way/487813514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487813515",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5218927,
+            40.1861032
+          ],
+          [
+            44.521649,
+            40.1862697
+          ]
+        ]
+      },
+      "id": "way/487813515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487813516",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.521649,
+            40.1862697
+          ],
+          [
+            44.5224781,
+            40.1869758
+          ]
+        ]
+      },
+      "id": "way/487813516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490741759",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4910692,
+            40.1517477
+          ],
+          [
+            44.4911103,
+            40.1514473
+          ]
+        ]
+      },
+      "id": "way/490741759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490759154",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4986575,
+            40.1519401
+          ],
+          [
+            44.4981949,
+            40.1520122
+          ],
+          [
+            44.4980822,
+            40.1522915
+          ],
+          [
+            44.4980498,
+            40.1523313
+          ]
+        ]
+      },
+      "id": "way/490759154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492127283",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5250779,
+            40.1830156
+          ],
+          [
+            44.5251297,
+            40.1827787
+          ]
+        ]
+      },
+      "id": "way/492127283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/492129644",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5251297,
+            40.1827787
+          ],
+          [
+            44.525315,
+            40.1826846
+          ]
+        ]
+      },
+      "id": "way/492129644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507382972",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5244478,
+            40.1845231
+          ],
+          [
+            44.5242191,
+            40.1844169
+          ]
+        ]
+      },
+      "id": "way/507382972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507382973",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5246076,
+            40.1842309
+          ],
+          [
+            44.5244478,
+            40.1845231
+          ]
+        ]
+      },
+      "id": "way/507382973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/507382974",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5243866,
+            40.1841438
+          ],
+          [
+            44.5246076,
+            40.1842309
+          ]
+        ]
+      },
+      "id": "way/507382974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532400982",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5113579,
+            40.1912622
+          ],
+          [
+            44.5111815,
+            40.1910201
+          ]
+        ]
+      },
+      "id": "way/532400982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532973772",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5166852,
+            40.1825866
+          ],
+          [
+            44.5168335,
+            40.1827048
+          ]
+        ]
+      },
+      "id": "way/532973772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539475395",
+        "colour": "red",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-1",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5076779,
+            40.1571452
+          ],
+          [
+            44.5074418,
+            40.1564749
+          ]
+        ]
+      },
+      "id": "way/539475395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539648643",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-2",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4833279,
+            40.1507436
+          ],
+          [
+            44.4834977,
+            40.1509377
+          ],
+          [
+            44.4836739,
+            40.151088
+          ],
+          [
+            44.4846243,
+            40.1518213
+          ]
+        ]
+      },
+      "id": "way/539648643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539648645",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-2",
+        "name": "Garegin Nzhdeh Square - Shengavit",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4851076,
+            40.1450643
+          ],
+          [
+            44.4844919,
+            40.1452421
+          ],
+          [
+            44.4840518,
+            40.145373
+          ],
+          [
+            44.4837214,
+            40.145496
+          ],
+          [
+            44.4833669,
+            40.1456702
+          ],
+          [
+            44.4830594,
+            40.1458988
+          ],
+          [
+            44.4828201,
+            40.1461678
+          ],
+          [
+            44.4826188,
+            40.1464671
+          ],
+          [
+            44.4823927,
+            40.1469342
+          ],
+          [
+            44.4821742,
+            40.1475885
+          ],
+          [
+            44.4818062,
+            40.148711
+          ],
+          [
+            44.4817282,
+            40.1491029
+          ],
+          [
+            44.4817628,
+            40.1494908
+          ],
+          [
+            44.4819315,
+            40.1497804
+          ],
+          [
+            44.4821732,
+            40.1500023
+          ],
+          [
+            44.4825993,
+            40.1503282
+          ],
+          [
+            44.4834534,
+            40.1509839
+          ],
+          [
+            44.483642,
+            40.1511288
+          ],
+          [
+            44.4845867,
+            40.1518541
+          ]
+        ]
+      },
+      "id": "way/539648645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545546554",
+        "highway": "service",
+        "layer": "-1",
+        "maxheight": "3.3",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5079857,
+            40.1877106
+          ],
+          [
+            44.5079807,
+            40.1875461
+          ]
+        ]
+      },
+      "id": "way/545546554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/552432100",
+        "highway": "service",
+        "layer": "-1",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5113236,
+            40.1866469
+          ],
+          [
+            44.5111708,
+            40.1865273
+          ]
+        ]
+      },
+      "id": "way/552432100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557614449",
+        "colour": "red",
+        "electrified": "rail",
+        "frequency": "0",
+        "gauge": "1520",
+        "layer": "-2",
+        "operator": "Karen Demirchyan Yerevan Subway CJSC",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4934545,
+            40.1977444
+          ],
+          [
+            44.4989097,
+            40.1960409
+          ],
+          [
+            44.5025645,
+            40.1941476
+          ],
+          [
+            44.5044589,
+            40.1930211
+          ],
+          [
+            44.5061023,
+            40.1916763
+          ],
+          [
+            44.5075114,
+            40.1901564
+          ],
+          [
+            44.5098562,
+            40.1883456
+          ],
+          [
+            44.5119127,
+            40.1873585
+          ],
+          [
+            44.5140412,
+            40.1870046
+          ],
+          [
+            44.5159896,
+            40.1869633
+          ],
+          [
+            44.5177025,
+            40.187194
+          ],
+          [
+            44.519508,
+            40.1874844
+          ],
+          [
+            44.5207203,
+            40.1874195
+          ],
+          [
+            44.5212634,
+            40.1872327
+          ],
+          [
+            44.521894,
+            40.1868276
+          ],
+          [
+            44.5228334,
+            40.185992
+          ],
+          [
+            44.5236545,
+            40.1848672
+          ],
+          [
+            44.5237471,
+            40.1845172
+          ],
+          [
+            44.5237265,
+            40.18412
+          ],
+          [
+            44.523603,
+            40.1836402
+          ],
+          [
+            44.5232324,
+            40.1830543
+          ],
+          [
+            44.52254,
+            40.1824703
+          ],
+          [
+            44.5215182,
+            40.1821084
+          ],
+          [
+            44.5201309,
+            40.1819256
+          ],
+          [
+            44.5189341,
+            40.1818154
+          ],
+          [
+            44.5182288,
+            40.181666
+          ],
+          [
+            44.5177939,
+            40.1815185
+          ],
+          [
+            44.5172585,
+            40.1812196
+          ],
+          [
+            44.5168493,
+            40.1807791
+          ],
+          [
+            44.5166974,
+            40.1805215
+          ],
+          [
+            44.5163088,
+            40.179495
+          ],
+          [
+            44.5161312,
+            40.178795
+          ],
+          [
+            44.515987,
+            40.1783211
+          ],
+          [
+            44.5159381,
+            40.1781873
+          ],
+          [
+            44.5154903,
+            40.1771411
+          ],
+          [
+            44.5141957,
+            40.1737035
+          ],
+          [
+            44.5137375,
+            40.17226
+          ],
+          [
+            44.5134364,
+            40.1715756
+          ],
+          [
+            44.5132047,
+            40.1710721
+          ],
+          [
+            44.5129628,
+            40.1707496
+          ],
+          [
+            44.5127234,
+            40.1704172
+          ],
+          [
+            44.5121495,
+            40.1699521
+          ],
+          [
+            44.5109346,
+            40.1691604
+          ],
+          [
+            44.5100621,
+            40.1686029
+          ],
+          [
+            44.5091008,
+            40.1678555
+          ],
+          [
+            44.5086709,
+            40.167289
+          ],
+          [
+            44.5085268,
+            40.1668662
+          ],
+          [
+            44.5084999,
+            40.1665938
+          ]
+        ]
+      },
+      "id": "way/557614449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/561519797",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5184624,
+            40.1831164
+          ],
+          [
+            44.5185933,
+            40.1830251
+          ]
+        ]
+      },
+      "id": "way/561519797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/639889332",
+        "highway": "service",
+        "layer": "-1",
+        "service": "parking_aisle",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.514931,
+            40.1849924
+          ],
+          [
+            44.5150076,
+            40.1849842
+          ]
+        ]
+      },
+      "id": "way/639889332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/640753064",
+        "highway": "path",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4913705,
+            40.1718164
+          ],
+          [
+            44.4916678,
+            40.1715474
+          ]
+        ]
+      },
+      "id": "way/640753064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/658993326",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4933581,
+            40.1991555
+          ],
+          [
+            44.4932285,
+            40.1991993
+          ]
+        ]
+      },
+      "id": "way/658993326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662434123",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5051638,
+            40.1839654
+          ],
+          [
+            44.5049661,
+            40.1841047
+          ]
+        ]
+      },
+      "id": "way/662434123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662851632",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5082641,
+            40.1834757
+          ],
+          [
+            44.508265,
+            40.1834765
+          ],
+          [
+            44.5083633,
+            40.1835585
+          ]
+        ]
+      },
+      "id": "way/662851632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662851636",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5070709,
+            40.1843251
+          ],
+          [
+            44.5071654,
+            40.184404
+          ]
+        ]
+      },
+      "id": "way/662851636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/663846307",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5048009,
+            40.1836582
+          ],
+          [
+            44.5046004,
+            40.183802
+          ]
+        ]
+      },
+      "id": "way/663846307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/663909547",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5121581,
+            40.1866423
+          ],
+          [
+            44.5119826,
+            40.1867759
+          ]
+        ]
+      },
+      "id": "way/663909547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668510442",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5093144,
+            40.1824606
+          ],
+          [
+            44.5095994,
+            40.1822558
+          ]
+        ]
+      },
+      "id": "way/668510442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668512218",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5160919,
+            40.1782891
+          ],
+          [
+            44.5161523,
+            40.1784056
+          ],
+          [
+            44.5159716,
+            40.178452
+          ]
+        ]
+      },
+      "id": "way/668512218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/670342299",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5089374,
+            40.1802732
+          ],
+          [
+            44.5090621,
+            40.1803764
+          ]
+        ]
+      },
+      "id": "way/670342299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/676886709",
+        "tunnel": "yes",
+        "waterway": "canal"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5014761,
+            40.1642601
+          ],
+          [
+            44.5011204,
+            40.1640805
+          ],
+          [
+            44.5009198,
+            40.1639703
+          ],
+          [
+            44.5008241,
+            40.1639266
+          ]
+        ]
+      },
+      "id": "way/676886709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/677599850",
+        "highway": "steps",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5046734,
+            40.1784963
+          ],
+          [
+            44.5045986,
+            40.178437
+          ]
+        ]
+      },
+      "id": "way/677599850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/678730219",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5224212,
+            40.1786914
+          ],
+          [
+            44.5223317,
+            40.1786176
+          ]
+        ]
+      },
+      "id": "way/678730219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/678730223",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5224441,
+            40.1782991
+          ],
+          [
+            44.5226608,
+            40.1782274
+          ]
+        ]
+      },
+      "id": "way/678730223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683065096",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5275303,
+            40.1806919
+          ],
+          [
+            44.5278871,
+            40.1806888
+          ]
+        ]
+      },
+      "id": "way/683065096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/712375144",
+        "highway": "service",
+        "layer": "-1",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5062513,
+            40.1870051
+          ],
+          [
+            44.5063015,
+            40.1871795
+          ]
+        ]
+      },
+      "id": "way/712375144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731729436",
+        "highway": "steps",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4933222,
+            40.1981344
+          ],
+          [
+            44.4933109,
+            40.1980184
+          ]
+        ]
+      },
+      "id": "way/731729436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731729438",
+        "highway": "steps",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4929574,
+            40.1983659
+          ],
+          [
+            44.4928533,
+            40.1980689
+          ]
+        ]
+      },
+      "id": "way/731729438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731729439",
+        "highway": "steps",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4926329,
+            40.1978045
+          ],
+          [
+            44.4926785,
+            40.1979439
+          ]
+        ]
+      },
+      "id": "way/731729439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731729440",
+        "highway": "steps",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.492716,
+            40.1980524
+          ],
+          [
+            44.4926785,
+            40.1979439
+          ]
+        ]
+      },
+      "id": "way/731729440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731729441",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4926785,
+            40.1979439
+          ],
+          [
+            44.4927211,
+            40.1979333
+          ]
+        ]
+      },
+      "id": "way/731729441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731736553",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4925524,
+            40.1989239
+          ],
+          [
+            44.4927183,
+            40.1989936
+          ]
+        ]
+      },
+      "id": "way/731736553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731746777",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4937037,
+            40.1978291
+          ],
+          [
+            44.4936983,
+            40.1977523
+          ],
+          [
+            44.4936862,
+            40.1977103
+          ],
+          [
+            44.4936661,
+            40.1976662
+          ],
+          [
+            44.4936617,
+            40.1976592
+          ],
+          [
+            44.4936339,
+            40.197615
+          ],
+          [
+            44.4935803,
+            40.1975607
+          ],
+          [
+            44.4935213,
+            40.1975156
+          ]
+        ]
+      },
+      "id": "way/731746777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731746778",
+        "highway": "footway",
+        "layer": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4933603,
+            40.1977661
+          ],
+          [
+            44.4936617,
+            40.1976592
+          ]
+        ]
+      },
+      "id": "way/731746778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738888735",
+        "highway": "path",
+        "layer": "-1",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4948376,
+            40.1735073
+          ],
+          [
+            44.4946095,
+            40.1737287
+          ]
+        ]
+      },
+      "id": "way/738888735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801972207",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5072892,
+            40.1826265
+          ],
+          [
+            44.5074994,
+            40.1824777
+          ]
+        ]
+      },
+      "id": "way/801972207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801991978",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5069868,
+            40.1777242
+          ],
+          [
+            44.5070017,
+            40.1777322
+          ],
+          [
+            44.50714,
+            40.1777981
+          ],
+          [
+            44.5071514,
+            40.177802
+          ]
+        ]
+      },
+      "id": "way/801991978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802000461",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5030035,
+            40.1764565
+          ],
+          [
+            44.5028571,
+            40.1765522
+          ],
+          [
+            44.5028137,
+            40.1765784
+          ]
+        ]
+      },
+      "id": "way/802000461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802531282",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5131169,
+            40.163706
+          ],
+          [
+            44.5133947,
+            40.1636995
+          ]
+        ]
+      },
+      "id": "way/802531282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802791781",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5102439,
+            40.1756542
+          ],
+          [
+            44.5102322,
+            40.1756491
+          ],
+          [
+            44.5100679,
+            40.1755767
+          ]
+        ]
+      },
+      "id": "way/802791781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/802922147",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5110264,
+            40.1723715
+          ],
+          [
+            44.5109113,
+            40.1725292
+          ]
+        ]
+      },
+      "id": "way/802922147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803083978",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5092954,
+            40.1752576
+          ],
+          [
+            44.5092701,
+            40.1752457
+          ],
+          [
+            44.5090847,
+            40.1751605
+          ]
+        ]
+      },
+      "id": "way/803083978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/803104625",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.513066,
+            40.1756813
+          ],
+          [
+            44.512918,
+            40.1756226
+          ]
+        ]
+      },
+      "id": "way/803104625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804481453",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4929575,
+            40.1976071
+          ],
+          [
+            44.4929021,
+            40.1974935
+          ]
+        ]
+      },
+      "id": "way/804481453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804952092",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5167518,
+            40.1963495
+          ],
+          [
+            44.5172828,
+            40.1960484
+          ]
+        ]
+      },
+      "id": "way/804952092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/813160533",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5135598,
+            40.1736077
+          ],
+          [
+            44.5133509,
+            40.1736226
+          ]
+        ]
+      },
+      "id": "way/813160533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/819340832",
+        "highway": "steps",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5055615,
+            40.2054196
+          ],
+          [
+            44.5056084,
+            40.2054388
+          ]
+        ]
+      },
+      "id": "way/819340832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/819514685",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5191403,
+            40.1863459
+          ],
+          [
+            44.5192058,
+            40.1864012
+          ]
+        ]
+      },
+      "id": "way/819514685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/819526202",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5158754,
+            40.1885484
+          ],
+          [
+            44.5158881,
+            40.1886276
+          ]
+        ]
+      },
+      "id": "way/819526202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/820106665",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5184254,
+            40.1876032
+          ],
+          [
+            44.5184541,
+            40.1876562
+          ]
+        ]
+      },
+      "id": "way/820106665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821217187",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5211949,
+            40.1854129
+          ],
+          [
+            44.5213111,
+            40.1853242
+          ]
+        ]
+      },
+      "id": "way/821217187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/821217191",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5192633,
+            40.1835672
+          ],
+          [
+            44.5193087,
+            40.183601
+          ]
+        ]
+      },
+      "id": "way/821217191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822248869",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5203413,
+            40.1774437
+          ],
+          [
+            44.5204815,
+            40.1775206
+          ]
+        ]
+      },
+      "id": "way/822248869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/822262451",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5193043,
+            40.1779785
+          ],
+          [
+            44.5194141,
+            40.1778462
+          ]
+        ]
+      },
+      "id": "way/822262451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/942982010",
+        "highway": "footway",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4988506,
+            40.1525453
+          ],
+          [
+            44.4986575,
+            40.1519401
+          ]
+        ]
+      },
+      "id": "way/942982010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964073247",
+        "construction": "subway",
+        "electrified": "rail",
+        "frequency": "0",
+        "layer": "-1",
+        "operator": "Karen Demirchyan Yerevan Subway CJSC",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4880977,
+            40.1989787
+          ],
+          [
+            44.48796,
+            40.1989875
+          ]
+        ]
+      },
+      "id": "way/964073247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964073248",
+        "construction": "subway",
+        "electrified": "rail",
+        "frequency": "0",
+        "layer": "-1",
+        "operator": "Karen Demirchyan Yerevan Subway CJSC",
+        "railway": "subway",
+        "tunnel": "yes",
+        "voltage": "825"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4932476,
+            40.1977653
+          ],
+          [
+            44.4930865,
+            40.1978086
+          ]
+        ]
+      },
+      "id": "way/964073248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971918892",
+        "highway": "service",
+        "layer": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5266154,
+            40.2077804
+          ],
+          [
+            44.5267547,
+            40.2079262
+          ]
+        ]
+      },
+      "id": "way/971918892"
+    }
+  ]
+}
