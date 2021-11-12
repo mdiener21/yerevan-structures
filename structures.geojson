@@ -185,6 +185,104 @@
           40.1885412172902
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Overpass",
+        "type": "overpass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51739549636841,
+          40.194286388996716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Overpass",
+        "type": "overpass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51649695634841,
+          40.194356049290626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tunnel",
+        "type": "tunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51567351818085,
+          40.194399074730526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tunnel",
+        "type": "pedestrian-tunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.505212903022766,
+          40.184838560961595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tunnel",
+        "type": "pedestrian-tunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5054167509079,
+          40.1850168340491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tunnel",
+        "type": "pedestrian-tunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.503490924835205,
+          40.18634054829692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tunnel",
+        "type": "pedestrian-tunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50336217880249,
+          40.18610490446157
+        ]
+      }
     }
   ]
 }
