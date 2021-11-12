@@ -297,6 +297,104 @@
           40.209368221687804
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.522974491119385,
+          40.1782913109862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51586261391639,
+          40.18460701016003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.51536372303963,
+          40.18207936660078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.52102452516556,
+          40.18618686762758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50017035007476,
+          40.18447176773329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.49908673763275,
+          40.17630754371529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foot bridge",
+        "type": "foot-bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.50267553329468,
+          40.17114701795309
+        ]
+      }
     }
   ]
 }
