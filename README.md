@@ -20,11 +20,9 @@ The original search was:
   // query part for: “bridge=yes”
   node["bridge"="yes"]({{bbox}});
   way["bridge"="yes"]({{bbox}});
-  relation["bridge"="yes"]({{bbox}});
   // query part for: “tunnel=yes”
   node["tunnel"="yes"]({{bbox}});
   way["tunnel"="yes"]({{bbox}});
-  relation["tunnel"="yes"]({{bbox}});
 );
 // print results
 out body;
