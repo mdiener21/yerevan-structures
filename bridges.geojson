@@ -1,0 +1,1304 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-13T14:08:33Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41261034",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "2",
+        "maxspeed": "60",
+        "name": "Կիևյան կամուրջ",
+        "name:en": "Kievyan bridge",
+        "name:hy": "Կիևյան կամուրջ",
+        "name:ru": "Мост Киевян",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4812328,
+            40.1908067
+          ],
+          [
+            44.4839161,
+            40.1923748
+          ]
+        ]
+      },
+      "id": "way/41261034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49678460",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4989849,
+            40.1762541
+          ],
+          [
+            44.4991919,
+            40.1763408
+          ]
+        ]
+      },
+      "id": "way/49678460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56061318",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:forward": "2",
+        "layer": "1",
+        "maxspeed": "60",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5177898,
+            40.194122
+          ],
+          [
+            44.5170574,
+            40.1944135
+          ],
+          [
+            44.5167141,
+            40.1945596
+          ],
+          [
+            44.5165475,
+            40.1946517
+          ]
+        ]
+      },
+      "id": "way/56061318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56992045",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5148786,
+            40.1933551
+          ],
+          [
+            44.5148574,
+            40.1928907
+          ],
+          [
+            44.5154977,
+            40.192713
+          ]
+        ]
+      },
+      "id": "way/56992045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84790682",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5156929,
+            40.1905084
+          ],
+          [
+            44.5159104,
+            40.1904974
+          ]
+        ]
+      },
+      "id": "way/84790682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84790687",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5157721,
+            40.1919259
+          ],
+          [
+            44.5158932,
+            40.191923
+          ],
+          [
+            44.5160737,
+            40.1918775
+          ]
+        ]
+      },
+      "id": "way/84790687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/84793793",
+        "bridge": "yes",
+        "bridge:structure": "arch",
+        "highway": "footway",
+        "layer": "1",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.515851,
+            40.1845714
+          ],
+          [
+            44.515867,
+            40.1846014
+          ],
+          [
+            44.5159058,
+            40.184649
+          ]
+        ]
+      },
+      "id": "way/84793793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96989139",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4983748,
+            40.1892868
+          ],
+          [
+            44.4984281,
+            40.1890432
+          ]
+        ]
+      },
+      "id": "way/96989139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/139783048",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Սարալանջի խճուղի",
+        "name:en": "Saralanj Highway",
+        "name:hy": "Սարալանջի խճուղի",
+        "name:ru": "шоссе Сараланджи",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5325205,
+            40.1923687
+          ],
+          [
+            44.5323301,
+            40.192846
+          ]
+        ]
+      },
+      "id": "way/139783048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173587996",
+        "bridge": "yes",
+        "highway": "primary_link",
+        "layer": "1",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4831627,
+            40.1814775
+          ],
+          [
+            44.4832027,
+            40.1812505
+          ]
+        ]
+      },
+      "id": "way/173587996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173658660",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4828004,
+            40.1909201
+          ],
+          [
+            44.482964,
+            40.1911147
+          ]
+        ]
+      },
+      "id": "way/173658660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184955600",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5259571,
+            40.1866623
+          ],
+          [
+            44.5261824,
+            40.186693
+          ]
+        ]
+      },
+      "id": "way/184955600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187307762",
+        "bridge": "yes",
+        "highway": "track",
+        "tracktype": "grade3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4832659,
+            40.1724906
+          ],
+          [
+            44.4830302,
+            40.1724491
+          ]
+        ]
+      },
+      "id": "way/187307762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187307763",
+        "bridge": "yes",
+        "highway": "track",
+        "layer": "1",
+        "tracktype": "grade3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4852158,
+            40.1708863
+          ],
+          [
+            44.4854075,
+            40.1708068
+          ]
+        ]
+      },
+      "id": "way/187307763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187712904",
+        "bridge": "yes",
+        "highway": "residential",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5006424,
+            40.1735224
+          ],
+          [
+            44.5004388,
+            40.1732551
+          ]
+        ]
+      },
+      "id": "way/187712904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216253457",
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4992654,
+            40.1780941
+          ],
+          [
+            44.4992315,
+            40.1781635
+          ]
+        ]
+      },
+      "id": "way/216253457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216253459",
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5014844,
+            40.177102
+          ],
+          [
+            44.5012667,
+            40.1769526
+          ]
+        ]
+      },
+      "id": "way/216253459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223822292",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5294109,
+            40.1907964
+          ],
+          [
+            44.5297027,
+            40.1906258
+          ]
+        ]
+      },
+      "id": "way/223822292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223845974",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5227824,
+            40.178336
+          ],
+          [
+            44.5231022,
+            40.1782342
+          ]
+        ]
+      },
+      "id": "way/223845974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/277790992",
+        "bridge": "yes",
+        "covered": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5268548,
+            40.1858957
+          ],
+          [
+            44.5264481,
+            40.1857924
+          ]
+        ]
+      },
+      "id": "way/277790992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/288273560",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.485883,
+            40.1684304
+          ],
+          [
+            44.4862344,
+            40.1681065
+          ]
+        ]
+      },
+      "id": "way/288273560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/330031466",
+        "bicycle": "no",
+        "bridge": "yes",
+        "foot": "yes",
+        "highway": "footway",
+        "horse": "no",
+        "layer": "1",
+        "lit": "yes",
+        "name": "Pedestrian Bridge",
+        "surface": "paved",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5275652,
+            40.1823394
+          ],
+          [
+            44.5278118,
+            40.1823676
+          ]
+        ]
+      },
+      "id": "way/330031466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366987668",
+        "bridge": "yes",
+        "height": "5 m",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.505744,
+            40.1669747
+          ],
+          [
+            44.5060744,
+            40.1668446
+          ]
+        ]
+      },
+      "id": "way/366987668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379080052",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "2",
+        "maxspeed": "60",
+        "name": "Կիևյան կամուրջ",
+        "name:en": "Kievyan bridge",
+        "name:hy": "Կիևյան կամուրջ",
+        "name:ru": "Мост Киевян",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4838198,
+            40.1924689
+          ],
+          [
+            44.4811498,
+            40.1909045
+          ]
+        ]
+      },
+      "id": "way/379080052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379766577",
+        "bridge": "yes",
+        "highway": "pedestrian",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5154266,
+            40.1820768
+          ],
+          [
+            44.5158468,
+            40.182068
+          ]
+        ]
+      },
+      "id": "way/379766577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/401957312",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4863416,
+            40.1681741
+          ],
+          [
+            44.4859849,
+            40.1685041
+          ]
+        ]
+      },
+      "id": "way/401957312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419013385",
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "surface": "metal",
+        "width": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4953545,
+            40.1821536
+          ],
+          [
+            44.4955614,
+            40.182205
+          ]
+        ]
+      },
+      "id": "way/419013385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/443007501",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Սարալանջի խճուղի",
+        "name:en": "Saralanj Highway",
+        "name:hy": "Սարալանջի խճուղի",
+        "name:ru": "шоссе Сараланджи",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5322174,
+            40.1928092
+          ],
+          [
+            44.5324024,
+            40.19234
+          ]
+        ]
+      },
+      "id": "way/443007501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/460614932",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "horse": "no",
+        "name": "Chrik bridge",
+        "oneway": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4983754,
+            40.186094
+          ],
+          [
+            44.4987289,
+            40.1857796
+          ]
+        ]
+      },
+      "id": "way/460614932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474678584",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Հաղթանակի կամուրջ",
+        "name:en": "Victory Bridge",
+        "name:hy": "Հաղթանակի կամուրջ",
+        "name:pl": "Most Zwycięstwa",
+        "name:ru": "Мост Победы",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5005941,
+            40.1742315
+          ],
+          [
+            44.4987332,
+            40.1756435
+          ]
+        ]
+      },
+      "id": "way/474678584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/483000270",
+        "bridge": "yes",
+        "highway": "trunk",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "60",
+        "name": "Հաղթանակի կամուրջ",
+        "name:en": "Victory Bridge",
+        "name:hy": "Հաղթանակի կամուրջ",
+        "name:pl": "Most Zwycięstwa",
+        "name:ru": "Мост Победы",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4986272,
+            40.1755538
+          ],
+          [
+            44.5004734,
+            40.1741454
+          ]
+        ]
+      },
+      "id": "way/483000270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488914722",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5131934,
+            40.1683139
+          ],
+          [
+            44.5135142,
+            40.1683001
+          ]
+        ]
+      },
+      "id": "way/488914722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/505047902",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4811222,
+            40.1909677
+          ],
+          [
+            44.4836236,
+            40.1924322
+          ]
+        ]
+      },
+      "id": "way/505047902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/505047904",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4813107,
+            40.1907497
+          ],
+          [
+            44.4834748,
+            40.1920396
+          ],
+          [
+            44.4838399,
+            40.192242
+          ]
+        ]
+      },
+      "id": "way/505047904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514478540",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5154977,
+            40.192713
+          ],
+          [
+            44.5156353,
+            40.1927048
+          ],
+          [
+            44.5157064,
+            40.1927006
+          ]
+        ]
+      },
+      "id": "way/514478540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521624096",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5166659,
+            40.1729757
+          ],
+          [
+            44.5166077,
+            40.173152
+          ]
+        ]
+      },
+      "id": "way/521624096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549581491",
+        "bridge": "yes",
+        "highway": "steps",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.502593,
+            40.1711012
+          ],
+          [
+            44.5027319,
+            40.171148
+          ]
+        ]
+      },
+      "id": "way/549581491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549581493",
+        "bridge": "yes",
+        "highway": "service",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5016724,
+            40.1669843
+          ],
+          [
+            44.5019836,
+            40.1669659
+          ]
+        ]
+      },
+      "id": "way/549581493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/563093104",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "lit": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5175603,
+            40.1739631
+          ],
+          [
+            44.5176867,
+            40.1736882
+          ]
+        ]
+      },
+      "id": "way/563093104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/598993429",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4879225,
+            40.1807197
+          ],
+          [
+            44.4880835,
+            40.1809123
+          ]
+        ]
+      },
+      "id": "way/598993429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615913886",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "70",
+        "name": "Մոնթե Մելքոնյանի պողոտա",
+        "name:en": "Monte Melkonian avenue",
+        "name:hy": "Մոնթե Մելքոնյանի պողոտա",
+        "name:ru": "проспект Монте Мелконяна",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4844606,
+            40.1701817
+          ],
+          [
+            44.4846144,
+            40.1699146
+          ],
+          [
+            44.4846457,
+            40.1698661
+          ]
+        ]
+      },
+      "id": "way/615913886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615913891",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "70",
+        "name": "Մոնթե Մելքոնյանի պողոտա",
+        "name:en": "Monte Melkonian avenue",
+        "name:hy": "Մոնթե Մելքոնյանի պողոտա",
+        "name:ru": "проспект Монте Мелконяна",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4847798,
+            40.169905
+          ],
+          [
+            44.4847431,
+            40.1699616
+          ],
+          [
+            44.4845974,
+            40.1702432
+          ]
+        ]
+      },
+      "id": "way/615913891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627540453",
+        "bridge": "yes",
+        "highway": "service",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5210875,
+            40.1862324
+          ],
+          [
+            44.5210686,
+            40.1862167
+          ],
+          [
+            44.5209832,
+            40.1861463
+          ]
+        ]
+      },
+      "id": "way/627540453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738887270",
+        "bridge": "yes",
+        "highway": "path",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5004743,
+            40.1868082
+          ],
+          [
+            44.5002162,
+            40.1870648
+          ]
+        ]
+      },
+      "id": "way/738887270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738888734",
+        "bridge": "yes",
+        "highway": "path",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4949506,
+            40.1733941
+          ],
+          [
+            44.4948376,
+            40.1735073
+          ]
+        ]
+      },
+      "id": "way/738888734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758918536",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5001214,
+            40.1844829
+          ],
+          [
+            44.5001802,
+            40.1844286
+          ]
+        ]
+      },
+      "id": "way/758918536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/799336411",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "lit": "yes",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.4985297,
+            40.1754337
+          ],
+          [
+            44.4986825,
+            40.1753558
+          ],
+          [
+            44.4987446,
+            40.1753165
+          ],
+          [
+            44.4987925,
+            40.1752861
+          ],
+          [
+            44.4989642,
+            40.1751672
+          ],
+          [
+            44.5004937,
+            40.1740239
+          ]
+        ]
+      },
+      "id": "way/799336411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/825354382",
+        "abandoned:highway": "yes",
+        "bridge": "yes",
+        "name": "\"Հրազդան\" Հին կամուրջ",
+        "name:en": "\"Hrazdan\" Old bridge",
+        "name:hy": "\"Հրազդան\" Հին կամուրջ",
+        "name:ru": "Старый мост \"Раздан\""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.499842,
+            40.171429
+          ],
+          [
+            44.5000113,
+            40.1717198
+          ],
+          [
+            44.5000301,
+            40.1717521
+          ]
+        ]
+      },
+      "id": "way/825354382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/927175215",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.495748,
+            40.1739384
+          ],
+          [
+            44.4958188,
+            40.1738729
+          ]
+        ]
+      },
+      "id": "way/927175215"
+    }
+  ]
+}
